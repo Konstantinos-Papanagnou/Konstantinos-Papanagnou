@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 
 I'm a self taught Software Developer. I love C# as a language and i mainly develop my apps in C#. I develop desktop applications, mobile applications (using Xamarin Framework, i am also familiar with Java for mobile applications). I have some experience with low level programming with Robotics with the PBasic language, C, C++ and assembly. I know Python well as i am learning Ethical Hacking and developing some tools there and also Python for Neural Networks with Pytorch.
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=Konstantinos-Papanagnou&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### (Technical stuff)
 
-🌱 I’m currently learning Cybersecurity and Ethical Hacking, as they are my passion on the field and i also enjoy working with Neural Networks and robotics. I also have been working with games in the past with Unity Game Engine and C#.
+🌱 I’m currently learning Cybersecurity and Ethical Hacking, as they are my passion on the field and i also enjoy working with Neural Networks and robotics. I also have been working with games in the past with Unity Game Engine and C#. I am active on CTF events and playing HackTheBox and TryHackMe <br>
+![THM Badge](https://tryhackme-badges.s3.amazonaws.com/CrashOverride2k.png) <br>
+![HTB Badge](https://www.hackthebox.eu/badge/image/255968) <br>
 
 🔭 I’m currently working as a Software Developer at [AETMA Labs](http://aetma.ihu.gr/) at International Hellenic University. I am also a Student at [International Hellenic University](https://www.ihu.gr/ucips/) in the Computer Engineering Program.
  
