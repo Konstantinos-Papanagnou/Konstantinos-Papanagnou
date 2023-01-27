@@ -28,7 +28,7 @@ I'm a self taught Software Developer. I love C# as a language and i mainly devel
 ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/CrashOverride2k.png) <br>
 ![HTB Badge](https://www.hackthebox.eu/badge/image/255968) <br>
 
-🔭 I’m currently working at NVISO Greece as an IT SWAT Engineer.
+🔭 I’m currently working at NVISO Greece as an Senior IT Security Engineer.
  
 I host my own Website [Pap Industries](http://papindustries.ddns.net) for fun where i upload news about my projects and the actual apps for download or redirect.
 
